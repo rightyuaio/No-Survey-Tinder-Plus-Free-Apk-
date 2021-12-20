@@ -1,0 +1,8 @@
+{
+    "name": "tinder-gold/tinder-gold",
+    "description": "Link Below for Premium Tinder Accounts >>>",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
